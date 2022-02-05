@@ -22,6 +22,20 @@
 - **post_office** : 필요한 directory에 파일 저장 - `(soynlp, os, shutil, re)`
   <br>
 
+## 2. 실제 완료 excel 파일
+
+#### **Dart 자료 parsing**
+
+![alt text](/readme_img/dart.png)
+
+#### **DB 자료 기입부분**
+
+![alt text](/readme_img/db.png)
+
+#### **기업검색 KISLINE 자료 기입부분**
+
+![alt text](/readme_img/kis_chrome.png)
+
 ## 2. 작동 구상
 
 #### action
